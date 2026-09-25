@@ -441,6 +441,11 @@ class InfoModal(Gtk.Window):
         bottom_bar.set_margin_bottom(12)
         main_box.pack_end(bottom_bar, False, False, 0)
 
+        lbl_credits = Gtk.Label()
+        lbl_credits.set_markup("<span font='8.0' color='#8e8e93'>Por Richardson Chantres &amp; Antigravity</span>")
+        lbl_credits.set_halign(Gtk.Align.START)
+        bottom_bar.pack_start(lbl_credits, False, False, 0)
+
         btn_ok = Gtk.Button(label="Entendi")
         btn_ok.get_style_context().add_class("btn-pill")
         btn_ok.get_style_context().add_class("btn-pill-primary")

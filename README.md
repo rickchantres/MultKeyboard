@@ -128,4 +128,8 @@ Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para 
 
 ---
 
-**Desenvolvido com dedicação para a comunidade Linux por [Richardson Chantres](https://github.com/rickchantres).**
+## 🤝 Créditos e Participação
+
+Este projeto foi idealizado e desenvolvido por **[Richardson Chantres](https://github.com/rickchantres)** com o suporte técnico e coautoria de inteligência artificial de **Antigravity** (Google DeepMind).
+
+Feito com dedicação para a comunidade open source e usuários Linux de todo o mundo. 🐧✨
