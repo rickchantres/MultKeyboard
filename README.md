@@ -124,7 +124,7 @@ Se quiser remover o MultKeyboard a qualquer momento, ele remove todos os compone
 
 ## 📄 Licença
 
-Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Distribuído sob a licença **GPL 3.0**. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 ---
 
