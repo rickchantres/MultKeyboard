@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Wayland-Ready-success.svg" alt="Wayland">
   <img src="https://img.shields.io/badge/X11-Supported-informational.svg" alt="X11">
   <img src="https://img.shields.io/badge/Python-3.6+-yellow.svg?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/License-GPL 3.0-green.svg" alt="License">
 </p>
 
 ---
